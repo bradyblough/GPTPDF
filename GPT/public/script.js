@@ -14,7 +14,7 @@ async function submitQuestion() {
 
   try {
     const response = await fetch(
-      "/https://gptpdf-jdmkrpce3-bradybloughs-projects.vercel.app/",
+      "https://vercel.com/bradybloughs-projects/gptpdf/Hqi2v2RW8quFrsEc9bti7G6biigE",
       {
         method: "POST",
         body: formData,
