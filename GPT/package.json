@@ -1,0 +1,14 @@
+{
+  "name": "your_project_name",
+  "version": "1.0.0",
+  "description": "PDF Question Answer App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.3",
+    "openai": "^4.24.7"
+  }
+}
